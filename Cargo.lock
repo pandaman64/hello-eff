@@ -1,0 +1,14 @@
+[[package]]
+name = "eff"
+version = "0.1.0"
+source = "git+https://github.com/pandaman64/effective-rust.git#98128601a5fe5e17b91b276b7f189be9c62917d7"
+
+[[package]]
+name = "hello-eff"
+version = "0.1.0"
+dependencies = [
+ "eff 0.1.0 (git+https://github.com/pandaman64/effective-rust.git)",
+]
+
+[metadata]
+"checksum eff 0.1.0 (git+https://github.com/pandaman64/effective-rust.git)" = "<none>"

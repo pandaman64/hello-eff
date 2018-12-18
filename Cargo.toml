@@ -1,0 +1,8 @@
+[package]
+name = "hello-eff"
+version = "0.1.0"
+authors = ["pandaman64 <kointosudesuyo@infoseek.jp>"]
+edition = "2018"
+
+[dependencies]
+eff = { git = "https://github.com/pandaman64/effective-rust.git" }
